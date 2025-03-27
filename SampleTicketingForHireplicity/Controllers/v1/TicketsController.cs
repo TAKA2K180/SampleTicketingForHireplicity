@@ -4,7 +4,7 @@ using TicketingSystem.Data.Contracts;
 
 namespace TicketingSystem.Web.Controllers.v1
 {
-    [Route("api/v1/Tickets")]
+    [Route("api/v1/ServiceRequest")]
     [ApiController]
     public class TicketsController : ControllerBase
     {
